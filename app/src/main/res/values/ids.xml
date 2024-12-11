@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="nav_view" type="id" />
+    <item name="drawer_layout" type="id" />
+    <item name="recycler_view" type="id" />
+    <item name="web_view" type="id" />
+    <item name="map_view" type="id" />
+    <item name="load_url_button" type="id" />
+    <item name="url_edit_text" type="id" />
+    <item name="nav_recycler_view" type="id" />
+    <item name="nav_web_view" type="id" />
+    <item name="nav_map_view" type="id" />
+    <item name="item_text" type="id" />
+</resources>
